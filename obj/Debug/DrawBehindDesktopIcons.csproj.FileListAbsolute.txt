@@ -1,0 +1,7 @@
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\obj\Debug\DrawBehindDesktopIcons.csproj.CoreCompileInputs.cache
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\bin\Debug\WAVES DesktopLive.exe.config
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\bin\Debug\WAVES DesktopLive.exe
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\bin\Debug\WAVES DesktopLive.pdb
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\obj\Debug\WAVES DesktopLive.exe
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\obj\Debug\WAVES DesktopLive.pdb
+C:\Users\waves\Downloads\DrawBehindDesktopIcons_src\DrawBehindDesktopIcons\obj\Debug\DrawBehindDesktopIcons.csprojResolveAssemblyReference.cache
